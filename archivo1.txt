@@ -2,3 +2,4 @@ primer contenido
 segundo contenido modificado desde valen-b
 toma tu segunda modificación.
 modificación 07-10-23 master
+modificación del master desde VS code
